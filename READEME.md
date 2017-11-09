@@ -1,5 +1,5 @@
 
-**运行命令××
+**运行命令**
     storm jar target/Topologies-0.0.1-SNAPSHOT.jar wordcount.Topology src/main/resources/words.txt
     
     
